@@ -101,10 +101,6 @@ flutter run
 </p>
 
 
-## 🎬 Demo Video
-
-[Watch 3-minute demo](https://youtu.be/your-demo-link)
-
 ## 🧪 Testing Approach
 
 Since this is a prototype:
