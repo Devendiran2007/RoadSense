@@ -85,12 +85,16 @@ flutter run
 
 ## 📱 Screenshots
 
-| Home | Detection | Map |
-|------|-----------|-----|
-| ![Home](<img width="689" height="1280" alt="image" src="https://github.com/user-attachments/assets/dcde4a0e-3493-49f1-ad80-9d6e8065d6bc" />
-) | ![Detection](<img width="414" height="1280" alt="image" src="https://github.com/user-attachments/assets/c4a64bf5-7914-4a2b-9622-b11a94f8a7a0" />
-) | ![Map](<img width="688" height="1280" alt="image" src="https://github.com/user-attachments/assets/5b20926a-9fbf-49a0-b6d8-52f88c65989b" />
-) |
+                                                                              Home                                                     
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/dcde4a0e-3493-49f1-ad80-9d6e8065d6bc" />
+                                                                            Detection
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/c4a64bf5-7914-4a2b-9622-b11a94f8a7a0" />
+                                                                               Map
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/5b20926a-9fbf-49a0-b6d8-52f88c65989b" />
+
 
 ## 🎬 Demo Video
 
